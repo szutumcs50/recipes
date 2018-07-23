@@ -1,3 +1,14 @@
-.number{
-  font-weight: bold;
-}
+.number {
+  color: #FF4136; }
+
+#directions {
+  color: #FF4136; }
+
+#mobile {
+  display: none; }
+
+@media (max-width: 600px) {
+  #mobile {
+    display: block; } }
+
+/*# sourceMappingURL=style.css.map */
